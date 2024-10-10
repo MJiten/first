@@ -15,3 +15,7 @@
 15.git remote add origin https://github.com/MJiten
 16.git push -u origin main
 17.git remote set-url origin <SSH-key url>
+#Keys
+18.ls -la ~/.ssh/
+19.ssh-keygen
+20.ssh-keygen -t rsa -b 4096 -C "jittu.mjd@gmail" 
