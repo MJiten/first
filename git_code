@@ -1,0 +1,14 @@
+1Git init
+2.git add
+3.git status
+4.git ls-files
+5.git show
+6.git log
+7.git log --oneline
+8.code .(in git env to connect vs)
+9.git rm -r --cached <file name> -> get back from staging area to working area (ie) untracked.
+10.git add .(add multiple files to track)
+11.git remote -v
+12.git remote add origin https://github.com/MJiten/Devops_first_repo.git
+13.git branch -M main
+14.git push -u origin main
